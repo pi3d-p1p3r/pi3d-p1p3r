@@ -1,7 +1,8 @@
 <div align="center">
   
 <!-- Animated Header - Tokyo Night Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Hi%20there!%20👋&fontSize=30&fontColor=c0caf5&animation=fadeIn&fontAlignY=30&desc=I'm%20Tanvir%20Kabir&descSize=35&descAlignY=60&descAlign=50" width="100%"/>
+<!-- Name prominently displayed -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=220&section=header&text=Hi%20there!%20👋&fontSize=25&fontColor=c0caf5&animation=fadeIn&fontAlignY=28&desc=I'm%20Tanvir%20Kabir&descSize=45&descAlignY=63&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Computational+Fluid+Dynamics+Enthusiast;Computational+Biology+Researcher;Building+the+Future+with+Code+%26+Science)](https://git.io/typing-svg)
