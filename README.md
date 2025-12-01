@@ -3,36 +3,12 @@
 <!-- Animated Header - Tokyo Night Theme -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Hi%20there&fontSize=50&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=I'm%20Tanvir%20Kabir&descSize=25&descAlignY=55&descAlign=50" width="100%"/>
 
-<br>
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Computational+Fluid+Dynamics+Enthusiast;Computational+Biology+Researcher;Building+the+Future+with+Code+%26+Science)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🌊 About Me
-
-> *"The beauty of science lies in the questions we dare to ask."*
-
-I'm a researcher and developer passionate about understanding complex systems through computational methods. My work bridges the gap between **mathematics**, **physics**, and **biology**.
-<div align="center">
-  
-<!-- Animated Header - Tokyo Night Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Hi%20there&fontSize=50&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=I'm%20Tanvir%20Kabir&descSize=25&descAlignY=55&descAlign=50" width="100%"/>
-
-<!-- Profile Picture -->
-<img src="me.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #7aa2f7; box-shadow: 0 0 20px #bb9af7;" alt="Tanvir Kabir"/>
-
 <br><br>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Computational+Fluid+Dynamics+Enthusiast;Computational+Biology+Researcher;Building+the+Future+with+Code+%26+Science)](https://git.io/typing-svg)
 
 </div>
-
----
 
 ## 🌊 About Me
 
@@ -118,13 +94,6 @@ I'm a researcher and developer passionate about understanding complex systems th
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pi3d-p1p3r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pi3d-p1p3r&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5"/>
-
-</div>
 
 <div align="center">
   
