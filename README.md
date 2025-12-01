@@ -52,10 +52,6 @@ I'm a researcher and developer passionate about understanding complex systems th
 
 ## 📚 Featured Projects
 
-<div align="center">
-
-## 📚 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
