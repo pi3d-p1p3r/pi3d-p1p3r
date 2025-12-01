@@ -36,7 +36,7 @@ I'm a researcher and developer passionate about understanding complex systems th
 ### 🏛️ University of Dhaka
 
 **Bachelor of Science in Applied Mathematics**
-
+<br>
 </td>
 </tr>
 </table>
