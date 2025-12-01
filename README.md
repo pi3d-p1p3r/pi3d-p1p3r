@@ -59,8 +59,7 @@ I'm a researcher and developer passionate about understanding complex systems th
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pi3d-p1p3r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
+  [![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=pi3d-p1p3r)](https://github.com/anuraghazra/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pi3d-p1p3r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
 
 </div>
