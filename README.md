@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20there%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20Tanvir%20Kabir&descSize=25&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20there&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20Tanvir%20Kabir&descSize=25&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Computational+Fluid+Dynamics+Enthusiast;Computational+Biology+Researcher;Building+the+Future+with+Code+%26+Science)](https://git.io/typing-svg)
@@ -94,7 +94,7 @@ I'm a researcher and developer passionate about understanding complex systems th
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tanvirkabir&style=for-the-badge&color=667eea)
+![Profile Views](https://komarev.com/ghpvc/?username=pi3d-p1p3r&style=for-the-badge&color=667eea)
 
 </div>
 
