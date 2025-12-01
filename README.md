@@ -1,18 +1,21 @@
 <div align="center">
   
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20there&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20Tanvir%20Kabir&descSize=25&descAlignY=55&descAlign=50" width="100%"/>
+<!-- Animated Header - Tokyo Night Theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Hi%20there&fontSize=50&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=I'm%20Tanvir%20Kabir&descSize=25&descAlignY=55&descAlign=50" width="100%"/>
+
+<!-- Profile Picture -->
+<img src="me.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #7aa2f7; box-shadow: 0 0 20px #bb9af7;" alt="Tanvir Kabir"/>
+
+<br><br>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Computational+Fluid+Dynamics+Enthusiast;Computational+Biology+Researcher;Building+the+Future+with+Code+%26+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Computational+Fluid+Dynamics+Enthusiast;Computational+Biology+Researcher;Building+the+Future+with+Code+%26+Science)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## 🌊 About Me
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350">
 
 > *"The beauty of science lies in the questions we dare to ask."*
 
@@ -25,8 +28,47 @@ I'm a researcher and developer passionate about understanding complex systems th
 📫 **Let's Connect:**
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Km-Tanvir-Siddiki)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/pi3d-p1p3r)
 
-<br clear="right"/>
+---
+
+## 🎓 Education
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="600">
+
+### 🏛️ University of Dhaka
+
+**Bachelor of Science in Applied Mathematics**
+
+<img src="https://img.shields.io/badge/Applied_Mathematics-7aa2f7?style=for-the-badge&logoColor=white" alt="Applied Mathematics"/>
+
+*Building strong foundations in mathematical modeling, numerical analysis, and computational methods*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/pi3d-p1p3r/matlab-works">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pi3d-p1p3r&repo=matlab-works&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
+</a>
+
+<a href="https://github.com/pi3d-p1p3r/bd-weather-analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pi3d-p1p3r&repo=bd-weather-analysis&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
+</a>
+
+</div>
 
 ---
 
@@ -59,14 +101,15 @@ I'm a researcher and developer passionate about understanding complex systems th
 ## 📊 GitHub Analytics
 
 <div align="center">
-  [![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=pi3d-p1p3r)](https://github.com/anuraghazra/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pi3d-p1p3r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pi3d-p1p3r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pi3d-p1p3r&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pi3d-p1p3r&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FF6B6B&currStreakLabel=667eea)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pi3d-p1p3r&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89)](https://git.io/streak-stats)
 
 </div>
 
@@ -74,12 +117,16 @@ I'm a researcher and developer passionate about understanding complex systems th
 
 ## 🌟 Research Interests
 
+<div align="center">
+
 ```text
 🌊 Computational Fluid Dynamics    ████████████████░░░░   80%
 🧬 Computational Biology           ███████████████░░░░░   75%
 🤖 Machine Learning                ██████████████░░░░░░   70%
 📐 Mathematical Modeling           █████████████░░░░░░░   65%
 ```
+
+</div>
 
 ---
 
@@ -93,12 +140,12 @@ I'm a researcher and developer passionate about understanding complex systems th
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pi3d-p1p3r&style=for-the-badge&color=667eea)
+![Profile Views](https://komarev.com/ghpvc/?username=pi3d-p1p3r&style=for-the-badge&color=7aa2f7)
 
 </div>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+<!-- Animated Footer - Tokyo Night Theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=footer" width="100%"/>
 
 <!-- Snake Animation -->
 <div align="center">
@@ -108,4 +155,3 @@ I'm a researcher and developer passionate about understanding complex systems th
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
