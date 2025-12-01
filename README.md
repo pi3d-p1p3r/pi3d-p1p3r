@@ -50,16 +50,11 @@ I'm a researcher and developer passionate about understanding complex systems th
 ---
 
 ## 🚀 Featured Projects
-
 <div align="center">
 
-<a href="https://github.com/pi3d-p1p3r/matlab-works">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pi3d-p1p3r&repo=matlab-works&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
-</a>
+[![matlab-works](https://github-readme-stats.vercel.app/api/pin/?username=pi3d-p1p3r&repo=matlab-works&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5)](https://github.com/pi3d-p1p3r/matlab-works)
 
-<a href="https://github.com/pi3d-p1p3r/bd-weather-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pi3d-p1p3r&repo=bd-weather-analysis&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
-</a>
+[![bd-weather-analysis](https://github-readme-stats.vercel.app/api/pin/?username=pi3d-p1p3r&repo=bd-weather-analysis&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5)](https://github.com/pi3d-p1p3r/bd-weather-analysis)
 
 </div>
 
