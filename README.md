@@ -35,9 +35,12 @@ I'm a researcher and developer passionate about understanding complex systems th
 
 ### 🏛️ University of Dhaka
 
-**Bachelor of Science**  
-**Applied Mathematics**
-<br/>
+**Bachelor of Science in Applied Mathematics**
+
+<img src="https://img.shields.io/badge/Applied_Mathematics-7aa2f7?style=for-the-badge&logoColor=white" alt="Applied Mathematics"/>
+
+*Building strong foundations in mathematical modeling, numerical analysis, and computational methods*
+
 </td>
 </tr>
 </table>
