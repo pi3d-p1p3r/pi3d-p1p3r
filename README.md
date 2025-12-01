@@ -50,11 +50,18 @@ I'm a researcher and developer passionate about understanding complex systems th
 ---
 
 ## 🚀 Featured Projects
+
 <div align="center">
 
-[![matlab-works](https://github-readme-stats.vercel.app/api/pin/?username=pi3d-p1p3r&repo=matlab-works&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5)](https://github.com/pi3d-p1p3r/matlab-works)
+## 📚 Featured Projects
 
-[![bd-weather-analysis](https://github-readme-stats.vercel.app/api/pin/?username=pi3d-p1p3r&repo=bd-weather-analysis&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5)](https://github.com/pi3d-p1p3r/bd-weather-analysis)
+<a href="https://github.com/pi3d-p1p3r/matlab-works">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pi3d-p1p3r&repo=matlab-works&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="matlab-works" />
+</a>
+
+<a href="https://github.com/pi3d-p1p3r/bd-weather-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pi3d-p1p3r&repo=bd-weather-analysis&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="bd-weather-analysis" />
+</a>
 
 </div>
 
