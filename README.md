@@ -55,13 +55,36 @@ I'm a researcher and developer passionate about understanding complex systems th
 
 ## 📚 Featured Projects
 
-<a href="https://github.com/pi3d-p1p3r/matlab-works">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pi3d-p1p3r&repo=matlab-works&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="matlab-works" />
-</a>
+<div align="center">
 
-<a href="https://github.com/pi3d-p1p3r/bd-weather-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pi3d-p1p3r&repo=bd-weather-analysis&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="bd-weather-analysis" />
-</a>
+## 📚 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [matlab-works](https://github.com/pi3d-p1p3r/matlab-works)
+
+A comprehensive collection of MATLAB projects and implementations covering signal processing, numerical analysis, and scientific computing applications.
+
+**Tech Stack:** `MATLAB` `Signal Processing` `Analysis`
+
+[![Repo](https://img.shields.io/badge/View_Repo-7aa2f7?style=for-the-badge&logo=github)](https://github.com/pi3d-p1p3r/matlab-works)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌦️ [bd-weather-analysis](https://github.com/pi3d-p1p3r/bd-weather-analysis)
+
+Weather data analysis project for Bangladesh, featuring data visualization, trend analysis, and climate pattern exploration using modern data science tools.
+
+**Tech Stack:** `Data Analysis` `Weather` `Visualization`
+
+[![Repo](https://img.shields.io/badge/View_Repo-7aa2f7?style=for-the-badge&logo=github)](https://github.com/pi3d-p1p3r/bd-weather-analysis)
+
+</td>
+</tr>
+</table>
 
 </div>
 
